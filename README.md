@@ -174,3 +174,9 @@ Feel free to submit issues and enhancement requests!
 - Neovim community
 - Julia community
 - Plugin authors and maintainers
+
+## thanks to~
+https://www.youtube.com/watch?v=GazrDjcdeG4 
+This youtube video had great impact on this project
+
+Also Clude made this go much easier!
