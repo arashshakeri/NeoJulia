@@ -1,6 +1,8 @@
 # NeoJulia
 This repo contains config for turning nvim into a Julia IDE
 
+![Screenshot From 2025-02-12 22-17-26](https://github.com/user-attachments/assets/f7b58d80-2f61-47c8-bfe8-1979c3f4e59b)
+
 
 # Neovim Julia IDE
 
