@@ -181,4 +181,4 @@ Feel free to submit issues and enhancement requests!
 https://www.youtube.com/watch?v=GazrDjcdeG4 
 This youtube video had great impact on this project
 
-Also Clude made this go much easier!
+Also Claude made this go much easier!
